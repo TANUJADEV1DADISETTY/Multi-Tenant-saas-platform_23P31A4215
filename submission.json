@@ -30,13 +30,6 @@
     "Persistent login using localStorage",
     "Dockerized backend and database"
   ],
-  "screenshots": [
-    "docs/images/docker-running.png",
-    "docs/images/database-erd.png",
-    "docs/images/superadmin-dashboard.png",
-    "docs/images/tenant-admin-dashboard.png",
-    "docs/images/user-dashboard.png"
-  ],
   "repository": {
     "github": "https://github.com/TANUJADEV1DADISETTY/Multi_tenant_platform-23P31A4215.git"
   },
